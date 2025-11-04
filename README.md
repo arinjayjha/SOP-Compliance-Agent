@@ -1,5 +1,5 @@
 
-# SOP Compliance Agent (Mini Project 2)
+# SOP Compliance Agent (Mini Project)
 
 ## Overview
 
