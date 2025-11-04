@@ -1,0 +1,35 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# llamaindex + FAISS index cache
+storage/
+index_store/
+vector_store/
+
+# logs
+*.log
+
+# temp files
+*.tmp
+*.temp
+
+# do not commit secrets or env vars
+.env
+*.env
